@@ -58,6 +58,9 @@ The project infrastructure includes:
 1. **Set Up Azure Services**:
    - Create an Azure Data Lake.
    - Set up Azure Data Factory and configure the data pipelines.
+      ![PipelinePostDaily](https://github.com/Sultan-Mm/Big-Data-Engineering/assets/109808952/1ba1f951-684b-48c7-b2c3-7be8d86f7531)
+      ![Pipeline_Week](https://github.com/Sultan-Mm/Big-Data-Engineering/assets/109808952/cdc04170-2ecc-40c5-ad88-1105c5348b59)
+
    - Create a Databricks workspace and upload the notebooks.
    - Set up Azure Synapse for data analysis and visualization.
 
@@ -83,8 +86,11 @@ The project infrastructure includes:
 ## Results
 The results of this project include:
 1. **Top 5 Topics**: A list of the top 5 topics from Stack Overflow posts.
+![top 5 topics in the StackOverFlow (1)](https://github.com/Sultan-Mm/Big-Data-Engineering/assets/109808952/296bdbd5-6dde-4b1c-8cda-adafd300901f)
+
 2. **Categorized Topics**: Topics categorized into various groups.
-3. **Visualization**: Charts displaying the distribution of posts across different categories.
+![Categorization (1)](https://github.com/Sultan-Mm/Big-Data-Engineering/assets/109808952/fde9cbcb-8c13-4a41-9d1a-f02588590173)
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.

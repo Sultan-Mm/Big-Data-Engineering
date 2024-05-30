@@ -18,7 +18,7 @@ This project aims to gather data from Stack Overflow posts, analyze them, identi
 
 ## Project Objective
 The objective of this project is to:
-1. Ingest data from Stack Overflow posts.
+1. Ingest data from Stack Overflow.
 2. Analyze the data to identify the top 5 topics.
 3. Categorize these topics into various categories.
 4. Visualize the distribution of posts across different topic categories using Azure Synapse.
